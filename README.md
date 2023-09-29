@@ -3,6 +3,10 @@ This repo holds the pygame "Rise and Dine: Wes's Cozy Kitchen" built for our Hol
 
 "Rise and Dine: Wes's Cozy Kitchen" is a single player breakfast ingredient choosing game developed using [pygame](https://www.pygame.org/news) featuring a retro theme and chill gameplay with a focus on the player's choice of ingredients and how they affect the breakfast meal chosen by the Chef.
 
+
+https://github.com/Nomad-Rob/Hack_Sprint-Breakfast/assets/115587964/a060aed4-07a2-41f7-8ed2-c35a347ab58a
+
+
 ## Index
 
 - [Installation](#installation)
